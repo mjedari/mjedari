@@ -7,7 +7,7 @@
 ---
 
 I've decided to open-source some of my projects as a way of giving back to the software engineering community. These repositories are available under their respective licenses:
-- **Mq-websocket** *– a lightweight WebSocket application that works with message queues written in GoLang.*
-- **Canary** *– a responsive, production-ready modern UI application written in Vue.js & Nuxt.js frameworks.*
+- [**MQ-Websocket**](https://github.com/mjedari/mq-websocket) *– a lightweight WebSocket application that works with message queues written in GoLang.*
+- [**Canary**](https://github.com/mjedari/canary) *– a responsive, production-ready modern UI application written in Vue.js & Nuxt.js frameworks.*
 
 These projects, along with the libraries I’ve intentionally developed for open-source use cases, are my way of contributing to the tools we all rely on.
