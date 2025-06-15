@@ -17,5 +17,6 @@ These projects, along with the libraries I’ve intentionally developed for open
 Below are selected projects developed as part of tasks or trial assignments for companies. While many of these were built under specific requirements or time constraints, they reflect my practical approach and problem-solving skills:
 
 - [**API Crawler**](https://github.com/mjedari/api-crawler) *- A simple api crawler, designed to fetch data and create short links.*
-- [**Task Processing System**](https://github.com/mjedari/sternx-project) *- This is a task processing system using microservices and RabbitMQ.*
+- [**Task Processing System**](https://github.com/mjedari/sternx-project) *- This is a task processing system using microservices and RabbitMQ.* ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 - [**Health Check System**](https://github.com/mjedari/health-check-clean) *- API Health Checker based on Clean Architecture.*
