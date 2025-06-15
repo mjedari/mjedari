@@ -16,6 +16,6 @@ These projects, along with the libraries I’ve intentionally developed for open
 🧩 Projects Built for Companies (Task-Based Work)
 Below are selected projects developed as part of tasks or trial assignments for companies. While many of these were built under specific requirements or time constraints, they reflect my practical approach and problem-solving skills:
 
-- [**API Crawler**](https://github.com/mjedari/api-crawler) This project was a prototype of the implementation of a simple api crawler, designed to fetch data and create a short-link. 
-- [**Task Processing System**](https://github.com/mjedari/sternx-project) This is a task processing system using microservices and RabbitMQ.
-- [**Health Check System**](https://github.com/mjedari/health-check-clean) API Health Checker based on Clean Architecture.
+- [**API Crawler**](https://github.com/mjedari/api-crawler) *- A simple api crawler, designed to fetch data and create short links.*
+- [**Task Processing System**](https://github.com/mjedari/sternx-project) *- This is a task processing system using microservices and RabbitMQ.*
+- [**Health Check System**](https://github.com/mjedari/health-check-clean) *- API Health Checker based on Clean Architecture.*
